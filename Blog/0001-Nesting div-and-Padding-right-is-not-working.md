@@ -44,15 +44,15 @@
 
 代码的运行效果如下图所示：
 
-![p1](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/img/202306122120591.png)
+![p1](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/Img/202306122133480.png)
 
-![p2](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/img/202306122120672.png)
+![p2](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/Img/202306122133007.png)
 
 而我理想中的效果是下图这样的：
 
-![p3](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/img/202306122120602.png)
+![p3](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/Img/202306122133366.png)
 
-![p4](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/img/202306122120094.png)
+![p4](https://raw.githubusercontent.com/FantasticAiming/ITBlog/main/Img/202306122133970.png)
 
 之所出现这个问题，是因为黄色的盒子通过 `white-space: nowrap;` 强制盒子的内容（两个 `span`）以一行显示，并且这里没有对超出自身宽度的内容进行处理（如以滚动条形式或是使用省略号）。然而，我又确确实实想让黄色的内容完整在一行内显示，该怎么办呢？
 

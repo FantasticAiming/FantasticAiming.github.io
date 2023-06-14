@@ -1,5 +1,7 @@
 # 弹性布局 —— Flex Box
 
+![FlexBox2](https://raw.githubusercontent.com/FantasticAiming/FantasticAiming.github.io/main/Img/202306142229007.png)
+
 ## 前言
 
 文章的开头，推荐一个练习弹性布局的闯关形式的小游戏，[FLEXBOX FROGGY](https://flexboxfroggy.com/)，蛮有趣的。虽然游戏难度不大，但可以当作验证自己对 Flex Box 的掌握度。

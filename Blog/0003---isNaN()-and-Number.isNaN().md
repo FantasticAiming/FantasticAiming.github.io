@@ -1,5 +1,7 @@
 # isNaN() 和 Number.isNaN()
 
+![nan-in-javascript-6](../../../../Desktop/nan-in-javascript-6.png)
+
 ## NaN 与 Number.NaN
 
 在了解 `isNaN()` 和 `Number.isNaN()` 这两个方法之前，先来了解一下 `NaN` 和 `Number.NaN`。

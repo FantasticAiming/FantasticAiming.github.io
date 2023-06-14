@@ -1,5 +1,7 @@
 # div 嵌套后 padding-right “失效”的问题
 
+![padding](https://raw.githubusercontent.com/FantasticAiming/FantasticAiming.github.io/main/Img/202306142228408.png)
+
 首先要说明一点，标题中之所以给失效加上了双引号，是因为 `padding-right` 并不是真正的失效，而是没有达到我想要的效果。
 
 最近发现了一个问题，当 `div` 嵌套之后，如果内层的 `div` 内容过长，那么外部 `div` 的 `padding-right` 将可能会失效。

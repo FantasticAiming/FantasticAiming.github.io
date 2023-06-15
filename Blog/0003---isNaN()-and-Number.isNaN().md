@@ -1,6 +1,6 @@
 # isNaN() 和 Number.isNaN()
 
-![nan-in-javascript-6](../../../../Desktop/nan-in-javascript-6.png)
+![nan](https://raw.githubusercontent.com/FantasticAiming/FantasticAiming.github.io/main/Img/202306142235216.png)
 
 ## NaN 与 Number.NaN
 
